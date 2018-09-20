@@ -1,0 +1,5 @@
++ inciar o banco 
+    json-server db.json
+
++ iniciar o servidor angular
+    ng serve
